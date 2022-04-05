@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32dev/ArduinoJson"
+}
