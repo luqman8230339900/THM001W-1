@@ -15,5 +15,6 @@
         "initializer_list": "cpp",
         "regex": "cpp"
     },
-    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32dev/ArduinoJson"
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32dev/ArduinoJson",
+    "nrf-connect.topdir": "${nrf-connect.sdk:1.4.0}"
 }
